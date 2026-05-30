@@ -1,5 +1,7 @@
 # Uchiha Itachi: Visual Jutsu Engine 👁️🔥
 
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXozanQwcmV1a3YzOWpmdHF3aTQ4dnRxdDNwam5iejQyeWg0bHF1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif
+
 A high-fidelity, interactive, and visually stunning web application that uses your **webcam and real-time hand-sign tracking** (or manual deck controls) to unleash powerful Uchiha clan jutsu. Built using Three.js, MediaPipe Hands, and high-performance GPU particle simulation.
 
 ---
